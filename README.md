@@ -2,7 +2,7 @@
 
 The Haralick texture features are used for image classification. These features capture information about the patterns that emerge in patterns of texture. The features are calculated by construction of a co-occurrence matrix that is traditionally computationally expensive. Once the co-occurrence matrix has been constructed, calculations of the 13 features are done.
 
-![Haralick features](https://github.com/adipai/haralick-textural-feature-analysis/blob/master/formula.png)
+![Haralick features]()
 
 ### Angular Second Momentum
 The ASM measures the local uniformity of the gray levels. When pixels are very similar, the ASM value will be large
