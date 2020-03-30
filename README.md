@@ -42,7 +42,13 @@ Information measures of correlation is correlations of various parameters measur
 
 ## Requirements
 ```
-Python 3.x - scipy, matplotlib, numpy
+python 3.x - scipy, matplotlib, numpy
 c/gcc compiler
 ```
 ## Execution
+```
+$python read_image.py
+<input the image pathname>
+<A text file called sample is created which has 2x2 matrix of grayscale representation of the image>
+$gcc feature_calculations.c
+```
