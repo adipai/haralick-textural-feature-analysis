@@ -53,16 +53,12 @@ $python read_image.py
 $gcc feature_calculations.c
 ```
 ## References
-1.	https://arxiv.org/pdf/1205.4831.pdf
+1.  R. M. Haralick, K. Shanmugam, and I. Dinstein, “Textural features for image classification,” IEEE Transactions on Systems, Man and  Cybernetics, vol. 3, no. 6, pp. 610–621, 1973.	
 
-
-2.	https://www.ijltet.org/wp-content/uploads/2013/11/38.pdf
-
+2.  R. M. Haralick, “Statistical and structural approaches to texture,” Proceedings of the IEEE, vol. 67, no. 5, pp. 786–804, 1979.
 
 3.	https://www.hindawi.com/journals/ijbi/2015/267807/
 
+4.	https://arxiv.org/pdf/1205.4831.pdf
 
-4.	R. M. Haralick, K. Shanmugam, and I. Dinstein, “Textural features for image classification,” IEEE Transactions on Systems, Man and Cybernetics, vol. 3, no. 6, pp. 610–621, 1973.
-
-5.	R. M. Haralick, “Statistical and structural approaches to texture,” Proceedings of the IEEE, vol. 67, no. 5, pp. 786–804, 1979.
-
+5.	https://www.ijltet.org/wp-content/uploads/2013/11/38.pdf
